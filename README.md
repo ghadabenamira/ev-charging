@@ -259,7 +259,7 @@ No changes to stations, ports or sessions are needed, because allocation is isol
 | Ghada Ben Amira | Coordinator | [@ghadabenamira](https://github.com/ghadabenamira) |
 | Ali Ayari | Classes Orientation | [@aliayari](https://github.com/aliayari170000) |
 | Anas Mokhtar Atiki | Coordinator | [@anasmokhtaratiki](https://github.com/anasmokhtaratiki) |
- 
+| Samar| your role | [@username](https://github.com/username) |
 ---
  
 <div align="center">
