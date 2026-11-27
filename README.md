@@ -257,7 +257,7 @@ No changes to stations, ports or sessions are needed, because allocation is isol
 | Name | Role | GitHub |
 |---|---|---|
 | Ghada Ben Amira | Coordinator | [@ghadabenamira](https://github.com/ghadabenamira) |
-| *Teammate* | *e.g. Strategies* | [@username](https://github.com/username) |
+| Ali Ayari | Classes Orientation | [@aliayari](https://github.com/aliayari170000) |
 | *Teammate* | *e.g. Testing & report* | [@username](https://github.com/username) |
  
 ---
